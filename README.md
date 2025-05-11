@@ -1,5 +1,14 @@
-## Next.js App Router Course - Starter
+# Next.js App Router Course – Starter
+This project is the starter codebase built while following Vercel's "Learn Next.js" course. The course is designed to guide developers from beginner to advanced level in building modern web applications using the Next.js App Router.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+The app uses the ACME project template provided in the course. Throughout the 16+ chapters (including extras like "Adding Metadata"), you'll learn to:
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+* Set up your local development environment
+* Work with pre-styled components
+* Connect real application logic and data
+* Build a complete, production-ready demo website
+
+I’ve also created a Notion summary that highlights the key topics covered in the course. Feel free to explore it here:
+
+🔗[Next.js Course Summary](https://www.notion.so/NextJs-Course-Vercel-1d4b0b80d215800e9bfed451820db3bf?pvs=4)
+
